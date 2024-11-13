@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## My Profiles
 [Leetcode]https://leetcode.com/u/SiddharthShukla34/
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=SiddharthShukla34)
 <!--
 **Siddharth3271/Siddharth3271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
