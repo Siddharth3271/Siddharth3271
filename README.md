@@ -1,9 +1,6 @@
 ## Hi there 👋
-## My Profiles
-
+## My Leetcode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SiddharthShukla34?theme=nord&font=Amaranth&ext=heatmap)
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Siddharth61&theme=1)
 <!--
 **Siddharth3271/Siddharth3271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
