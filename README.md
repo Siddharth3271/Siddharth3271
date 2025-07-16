@@ -18,11 +18,21 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 <table>
   <th>
+    <td>
     <h3 align="center">Languages</h3>
+    </td>
+  <td>
     <h3 align="center">Frontend</h3>
+    </td>
+  <td>
     <h3 align="center">Backend</h3>
+  </td>
+  <td>
     <h3 align="center">DataBase</h3>
+    </td>
+      <td>
     <h3 align="center">Tools</h3>
+      </td>
   </th>
   <tr>
     <td>
