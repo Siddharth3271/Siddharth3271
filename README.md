@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" alt="C" width="40" height="40"/>
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 </p>
 <h3 align="left">Frontend</h3>
 <p align="left">
@@ -44,3 +44,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
 </p>
+
+## 💻 SKILL BAR
+**Java**        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
+**MySQL**       🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**HTML/CSS**    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**JavaScript**  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%  
+**C/C++**       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%  
+**PHP**         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
