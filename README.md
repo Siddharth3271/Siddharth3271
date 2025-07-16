@@ -17,24 +17,12 @@
 - [LinkedIn](https://linkedin.com/in/siddharth-shukla-61ab0124b)
 - [Email](mailto:shuklasiddharth418@gmail.com)
 
-📌 Checkout my pinned projects below 👇
 
 ## My Leetcode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SiddharthShukla34?theme=nord&font=Amaranth&ext=heatmap)
 <!--
 **Siddharth3271/Siddharth3271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🛠️ Tech Stack
 <table border="1" cellspacing="10" cellpadding="10">
   <tr>
@@ -78,3 +66,5 @@ Here are some ideas to get you started:
 **JavaScript**  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%  
 **C/C++**       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%  
 **PHP**         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+
+📌 Checkout my pinned projects below 👇
