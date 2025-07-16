@@ -1,4 +1,24 @@
-## Hi there 👋
+## 👋 Hello! I'm Siddharth Shukla
+
+🎓 Final year Computer Science student passionate about building scalable and meaningful software.
+
+💡 I love exploring new technologies and solving real-world problems using code.
+
+🔧 Currently focused on:
+- Backend Development with **Java & Spring Boot**
+- Full Stack Web Development (**ReactJS**, **Spring Boot**, **MySQL**)
+- Competitive Programming (solved 600+ problems on **LeetCode**)
+
+🌱 Learning:
+- **Spring Security**, **Docker**, and **DevOps Practices**
+- microservices and low level design
+
+📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/siddharth-shukla-61ab0124b)
+- [Email](mailto:shuklasiddharth418@gmail.com)
+
+📌 Checkout my pinned projects below 👇
+
 ## My Leetcode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SiddharthShukla34?theme=nord&font=Amaranth&ext=heatmap)
 <!--
