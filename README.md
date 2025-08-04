@@ -60,14 +60,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth3271&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth3271&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth3271&show_icons=true&theme=gruvbox" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth3271&layout=compact&theme=gruvbox" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth3271&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth3271&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ## 💻 SKILL BAR
 **Java**        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
