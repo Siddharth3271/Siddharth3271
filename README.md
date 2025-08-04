@@ -58,6 +58,12 @@
   </tr>
 </table>
 
+### 📊 GitHub Stats
+
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIddharth3271&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth3271&layout=compact&theme=github_dark)
+
 ## 💻 SKILL BAR
 **Java**        🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
 **MySQL**       🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
