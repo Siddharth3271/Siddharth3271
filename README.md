@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Siddharth Shukla
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siddharth+Shukla;Backend+Developer+%26+Machine+Learning+Enthusiast;Building+projects+in+Spring+Boot+%26+ML)](https://git.io/typing-svg)
 
 🎓 Final year Computer Science student passionate about building scalable and meaningful software.
 
