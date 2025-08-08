@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=#c9eb34&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Siddharth+Shukla;Backend+Developer+%26+Machine+Learning+Enthusiast;Building+projects+in+Spring+Boot+%26+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=c9eb34&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Siddharth+Shukla;Backend+Developer+%26+Machine+Learning+Enthusiast;Building+projects+in+Spring+Boot+%26+ML)](https://git.io/typing-svg)
 
 🎓 Final year Computer Science student passionate about building scalable and meaningful software.
 
