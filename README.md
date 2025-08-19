@@ -7,7 +7,7 @@
 🔧 Currently focused on:
 - Backend Development with **Java & Spring Boot**
 - Full Stack Web Development (**ReactJS**, **Spring Boot**, **MySQL**)
-- Competitive Programming (solved 600+ problems on **LeetCode**)
+- Competitive Programming (solved 700+ problems on **LeetCode**)
 
 🌱 Learning:
 - **Spring Security**, **Docker**, and **DevOps Practices**
