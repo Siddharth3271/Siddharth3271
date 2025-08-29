@@ -66,13 +66,15 @@
 </p>
 
 
-## 💻 SKILL BAR
-**Java**         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  
-**MySQL**        🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
-**HTML/CSS**     🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
-**Python**       🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-**JavaScript**   🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%  
-**C/C++**        🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%  
-**PHP**          🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
+<h2>💻SKILL BAR</h2>
+
+<p>Java <progress value="80" max="100"></progress> 80%</p>
+<p>MySQL <progress value="70" max="100"></progress> 70%</p>
+<p>HTML/CSS <progress value="70" max="100"></progress> 70%</p>
+<p>Python <progress value="60" max="100"></progress> 60%</p>
+<p>JavaScript <progress value="60" max="100"></progress> 60%</p>
+<p>C/C++ <progress value="50" max="100"></progress> 50%</p>
+<p>PHP <progress value="50" max="100"></progress> 50%</p>
+
 
 📌 Checkout my pinned projects below 👇
